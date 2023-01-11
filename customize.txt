@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,canyouseeme.org
+  - DOMAIN-SUFFIX,xilinx.com
