@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,gofile.io
+  - DOMAIN-SUFFIX,launchpad.net
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,canyouseeme.org

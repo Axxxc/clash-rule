@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,SunloginClient.exe,DIRECT
+  - PROCESS-NAME,transmission-daemon.exe
+  - PROCESS-NAME,transmission-qt.exe
+  - PROCESS-NAME,Transmission
