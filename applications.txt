@@ -3,3 +3,13 @@ payload:
   - PROCESS-NAME,transmission-daemon.exe
   - PROCESS-NAME,transmission-qt.exe
   - PROCESS-NAME,Transmission
+  - PROCESS-NAME,SGuard64.exe
+  - PROCESS-NAME,LeagueClient.exe
+  - PROCESS-NAME,CrossProxy.exe
+  - PROCESS-NAME,RiotClientServices.exe
+  - PROCESS-NAME,SGuardSvc64.exe
+  - PROCESS-NAME,SGuardUpdate64.exe
+  - PROCESS-NAME,LeagueClientUxRender.exe
+  - PROCESS-NAME,wegame.exe
+  - PROCESS-NAME,League of Legends.exe
+  - PROCESS-NAME,LeagueClientUx.exe
