@@ -13,3 +13,4 @@ payload:
   - PROCESS-NAME,wegame.exe
   - PROCESS-NAME,League of Legends.exe
   - PROCESS-NAME,LeagueClientUx.exe
+  - PROCESS-NAME,xunyou.exe
