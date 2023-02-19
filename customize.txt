@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,xilinx.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,daydream.dmhy.best
