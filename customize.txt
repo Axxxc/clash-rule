@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,canyouseeme.org
   - DOMAIN-SUFFIX,xilinx.com
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,epicgames.dev
