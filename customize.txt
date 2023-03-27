@@ -8,3 +8,5 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,daydream.dmhy.best
   - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,clarivate.com
+  
