@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-KEYWORD,steam
