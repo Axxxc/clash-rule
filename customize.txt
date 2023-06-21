@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,clarivate.com
   - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,mypikpak.com
