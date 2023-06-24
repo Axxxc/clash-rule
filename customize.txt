@@ -11,4 +11,3 @@ payload:
   - DOMAIN-SUFFIX,clarivate.com
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,mypikpak.com
-  - DOMAIN-SUFFIX,discord.gg
