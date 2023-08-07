@@ -12,3 +12,6 @@ payload:
   - DOMAIN-SUFFIX,ieee.org
 #  - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,arxiv.org
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,radeon.com
+  - DOMAIN-SUFFIX,amd.com
