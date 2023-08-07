@@ -10,8 +10,8 @@ payload:
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,clarivate.com
   - DOMAIN-SUFFIX,ieee.org
-#  - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,radeon.com
   - DOMAIN-SUFFIX,amd.com
+  - DOMAIN-SUFFIX,akamaiedge.net
