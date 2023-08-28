@@ -16,3 +16,10 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,entitlenow.com
+  - DOMAIN-SUFFIX,clngaa.com
+  - DOMAIN-SUFFIX,pphimalayanrt.com
+  - DOMAIN-SUFFIX,eccdnx.com
+  - DOMAIN-SUFFIX,tnkjmec.com
+  - DOMAIN-SUFFIX,bscstorage.net
+  - DOMAIN-SUFFIX,pinyuncloud.com
+  - DOMAIN-SUFFIX,steamchina.com
