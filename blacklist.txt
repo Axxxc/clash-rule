@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-KEYWORD,fastlink
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,btdig.com
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,discord.gg
