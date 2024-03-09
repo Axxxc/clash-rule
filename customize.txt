@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,bscstorage.net
   - DOMAIN-SUFFIX,pinyuncloud.com
   - DOMAIN-SUFFIX,steamchina.com
+  - DOMAIN-SUFFIX,sciencedirect.com
