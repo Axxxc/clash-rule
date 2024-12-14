@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,zodgame.xyz
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,coinglass.com
   - DOMAIN-SUFFIX,mypikpak.net
